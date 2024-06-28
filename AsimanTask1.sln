@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsimanTask1", "AsimanTask1\AsimanTask1.csproj", "{1C023D5D-CF71-4D54-8EAC-C511ABA02081}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C023D5D-CF71-4D54-8EAC-C511ABA02081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C023D5D-CF71-4D54-8EAC-C511ABA02081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C023D5D-CF71-4D54-8EAC-C511ABA02081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C023D5D-CF71-4D54-8EAC-C511ABA02081}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B98E6C82-4477-4A63-9970-CB6437287CF0}
+	EndGlobalSection
+EndGlobal
